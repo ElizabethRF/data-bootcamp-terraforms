@@ -45,7 +45,7 @@ Update the file `airflow-values.yaml` attributes; repo, branch and subPath of yo
     # ssh examples ssh://git@github.com/apache/airflow.git
     # git@github.com:apache/airflow.git
     # https example: https://github.com/apache/airflow.git
-    repo: https://github.com/eiffela65/Airflow-Templates
+    repo: https://github.com/ElizabethRF/DataEngineeringBootcam-DAGs
     branch: main
     rev: HEAD
     depth: 1
